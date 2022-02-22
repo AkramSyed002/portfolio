@@ -14,7 +14,7 @@
 
 # misc
 .env
-.evn_sample
+.dataSample
 .DS_Store
 .env.local
 .env.development.local
