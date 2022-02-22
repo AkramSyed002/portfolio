@@ -19,7 +19,7 @@ const SideBar = () => {
     { icon: <HomeRoundedIcon />, title: "Home", path: "/" },
     { icon: <InfoRoundedIcon />, title: "About", path: "/about" },
     { icon: <WorkspacesRoundedIcon />, title: "Education", path: "/edu" },
-    { icon: <SchoolRoundedIcon />, title: "Experience", path: "/exp" },
+    { icon: <SchoolRoundedIcon />, title: "Portfolio", path: "/portfolio" },
     {
       icon: <ConnectWithoutContactRoundedIcon />,
       title: "Contact",

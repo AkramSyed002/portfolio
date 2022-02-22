@@ -1,12 +1,12 @@
 import React from "react";
 import Layout from "./../../component/Layout";
-import Title from "./../../component/Title";
 import MyDivider from "./../../component/MyDivider";
+import MyTypography from "../../component/MyTypography";
 
 const Exp = () => {
   return (
     <Layout>
-      <Title title="My Experience" />
+      <MyTypography title="My Experience" />
       <MyDivider />
     </Layout>
   );
